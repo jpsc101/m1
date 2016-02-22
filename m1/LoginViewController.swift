@@ -22,6 +22,7 @@ class LoginViewController: UIViewController {
         
         print("Hello")
         print("hello twice")
+        print("hello number 3")
         
        // if(profiles[userName.text!] == passCode.text!) {
         
