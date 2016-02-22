@@ -21,6 +21,7 @@ class LoginViewController: UIViewController {
     @IBAction func loginButtonTapped(sender: AnyObject) {
         
         print("Hello")
+        print("hello twice")
         
        // if(profiles[userName.text!] == passCode.text!) {
         
